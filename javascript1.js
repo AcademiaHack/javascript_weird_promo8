@@ -110,10 +110,10 @@
 //   }(i)), 3000);
 // }
 
-var test = {
-  prop: 42,
-  func: function() {
-    return this.prop;
-  }
-}
-console.log(test.func());
+// var test = {
+//   prop: 42,
+//   func: function() {
+//     return this.prop;
+//   }
+// }
+// console.log(test.func());
